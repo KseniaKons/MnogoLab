@@ -10,4 +10,8 @@
 
 # Форма
 
+![alt](https://github.com/KseniaKons/MnogoLab/blob/main/img/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0.png)
+
 # Схема БД
+
+![alt](https://github.com/KseniaKons/MnogoLab/blob/main/img/%D0%B1%D0%B4.png)
